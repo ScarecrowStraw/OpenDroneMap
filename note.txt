@@ -2,3 +2,5 @@ sudo apt install python3-testresources
 
 sudo apt-get install gis-all
 
+https://community.opendronemap.org/t/native-install-on-ubuntu-18-04/3151
+
